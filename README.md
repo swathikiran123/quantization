@@ -1,4 +1,4 @@
-# quantization 
+# Model Optimization: Compression + Quantization
 **🧠 MNIST Dataset Quantization with Keras**
 
 This project demonstrates the application of Deep Learning Model Optimization techniques such as Pruning and Quantization on the popular MNIST handwritten digits dataset. Built using TensorFlow/Keras, it showcases how to achieve significant model compression while maintaining (or even improving) performance, with detailed benchmarking of accuracy, model size, and inference speed.
