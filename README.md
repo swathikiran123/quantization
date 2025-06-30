@@ -38,15 +38,6 @@ PQT Compressed + Quantized	45 KB	0.0903	97.31%	0.0359
 
 QAT Quantized Model	92 KB	0.9505	74.49%	0.0006
 
-
-⚡ Key Takeaways
-Quantization dramatically reduces model size and improves loading speed.
-
-Post-training quantization can achieve excellent accuracy with minimal additional training effort.
-Quantization-aware training allows for even finer control during training to mitigate accuracy loss due to quantization.
-
-These techniques are critical for deploying deep learning models on edge devices or resource-constrained environments.
-
 **🔗 References:**
 
 Keras Model Optimization Documentation:  https://www.tensorflow.org/model_optimization
